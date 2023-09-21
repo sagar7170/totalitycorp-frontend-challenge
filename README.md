@@ -2,7 +2,7 @@
 This is an intermediate-level e-commerce website using React with essential features, including product listing, filters , cart management and checkout.
 
 ## Approach & tech stack details
-1. Tailwind css --> UI libraries for designing components
+1. Tailwind css --> UI library for designing components
 2. Material UI  --> for icons
 3. https://fakestoreapi.com/ --> free API for fetching different products
 4. react useContext --> for state management
