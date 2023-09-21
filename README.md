@@ -1,5 +1,5 @@
 ## About 
-This is an intermediate-level e-commerce website using React with essential features, including product listing, cart management and checkout.
+This is an intermediate-level e-commerce website using React with essential features, including product listing, filters , cart management and checkout.
 
 ## Approach & tech stack details
 1. Tailwind css --> UI libraries for designing components
