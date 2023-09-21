@@ -1,22 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About 
+This is an intermediate-level e-commerce website using React with essential features, including product listing, cart management and checkout.
 
+## Approach & tech stack details
+1. Tailwind css --> UI libraries for designing components
+2. Material UI  --> for icons
+3. https://fakestoreapi.com/ --> free API for fetching different products
+4. react useContext --> for state management
+   
 ## Getting Started
 
-First, run the development server:
+1.Clone the Repository: Use the following command to clone the totalitycorp-frontend-challenge repository to your local machine:
 
+```base
+git clone https://github.com/sagar7170/totalitycorp-frontend-challenge.git
+```
+2. install the node modules using following command:
+```base
+npm install
+```
+3. run to your local machine using following command:
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+
+
 
 ## Learn More
 
